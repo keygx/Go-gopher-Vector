@@ -13,6 +13,7 @@ Original : http://golang.org/doc/gopher/
 
 ## Licence
 
-Creative Commons 3.0 Attributions license
-
-`BY` [Attribution](https://creativecommons.org/licenses/by/3.0/)
+The Go gopher was designed by Renee French.  
+[http://reneefrench.blogspot.com/](http://reneefrench.blogspot.com/)  
+The design is licensed under the Creative Commons 3.0 Attributions license.  
+[CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
